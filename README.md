@@ -7,8 +7,10 @@
 - 📝 I regularly write articles on [https://velog.io/@roo333](https://velog.io/@roo333)
 
 - 📫 How to reach me **cozak92@gmail.com**
-
+<div align="center">  
 ## What Languages can I use are....
+  </div>
+  ---
 <div align="center">  
 
 <img style="margin: 10px" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />  
@@ -18,8 +20,10 @@
 <img style="margin: 10px" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white" />
 <img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"  />  
 </div>
-
+<div align="center">  
 ## What skills can I use are....
+  ---
+ </div>
 <div align="center">  
 <table><tr><td valign="top" width="33%">
 
