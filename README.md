@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **cozak92@gmail.com**
 
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -19,8 +21,7 @@
 
 </td><td valign="top" width="33%">
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+
 
 ### Backend  
 <div align="center">  
