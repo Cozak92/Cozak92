@@ -11,12 +11,13 @@
 ## What Languages can I use are....
 <div align="center">  
 
-<img style="margin: 10px" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white" />  
 <img style="margin: 10px" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/C#-A8B9CC?style=flat-square&logo=Csharp&logoColor=white"  />  
+<img style="margin: 10px" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white" />  
+
+<img style="margin: 10px" src="https://img.shields.io/badge/C#-239120?style=flat-square&logo=CSharp&logoColor=white"  />  
 <img style="margin: 10px" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" />
 <img style="margin: 10px" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white" />
-<img style="margin: 10px" src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javscript&logoColor=white"  />  
+<img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"  />  
 </div>
 
 ## What skills can I use are....
