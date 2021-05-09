@@ -10,12 +10,13 @@
 
 ## What Languages can I use are....
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+
+<img style="margin: 10px" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/C#-A8B9CC?style=flat-square&logo=csharp&logoColor=white"  />  
+<img style="margin: 10px" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" />
+<img style="margin: 10px" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white" />
+<img style="margin: 10px" src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javscript&logoColor=white"  />  
 </div>
 
 ## What skills can I use are....
