@@ -21,6 +21,7 @@
 </div>
 
 ## What skills can I use are....
+<div align="center">  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -56,6 +57,7 @@
 </div>
 
 </td></tr></table>  
+</div>
 
 <br/>  
 
