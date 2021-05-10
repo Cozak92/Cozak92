@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **cozak92@gmail.com**
 
-## ❓ What Languages can I use are....
+## ❓ The Languages that I am able to use are ....
 <div align="center">  
 
 <img style="margin: 10px" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />  
@@ -20,7 +20,7 @@
 <img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"  />  
 </div>
 
-## ❓ What skills can I use are....
+## ❓The skils that I am able to use are ....
 
 <div align="center">  
 <table><tr><td valign="top" width="33%">
