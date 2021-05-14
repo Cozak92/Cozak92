@@ -20,7 +20,7 @@
 <img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"  />  
 </div>
 
-## ❓The skils that I am able to use are ....
+## ❓The Skils that I am able to use are ....
 
 <div align="center">  
 <table><tr><td valign="top" width="33%">
