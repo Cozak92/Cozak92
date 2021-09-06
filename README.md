@@ -13,7 +13,6 @@
 
 <img style="margin: 10px" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />  
 <img style="margin: 10px" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />  
 
 <img style="margin: 10px" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" />
 <img style="margin: 10px" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white" />
