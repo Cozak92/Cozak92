@@ -13,7 +13,7 @@
 
 <img style="margin: 10px" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />  
 <img style="margin: 10px" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white" /> 
-<img style="margin: 10px" src="https://img.shields.io/badge/Kotlin-8b00ff?style=flat-square&logo=kotlin%2b%2b&logoColor=white" />
+<img style="margin: 10px" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin%2b%2b&logoColor=white" />
 <img style="margin: 10px" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" />
 <img style="margin: 10px" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white" />
 <img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"  />  
